@@ -1,4 +1,4 @@
-# quiz-management-system
+# Quiz-Management-System
 A Quiz Management System project for creating, managing, and attempting quizzes with real-time scoring and result tracking.
 
 📘 Online Quiz Management System:
