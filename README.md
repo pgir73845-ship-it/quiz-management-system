@@ -1,10 +1,11 @@
 # quiz-management-system
 A Quiz Management System project for creating, managing, and attempting quizzes with real-time scoring and result tracking.
-📘 Online Quiz Management System
+
+📘 Online Quiz Management System:
 
 A Quiz Management System project designed to simplify online assessments. It allows admins to create and manage quizzes, while students can attempt them and view results instantly.
 
-🚀 Features
+🚀 Features:
 
 ✅ User authentication (Admin & Student)
 
@@ -17,7 +18,7 @@ A Quiz Management System project designed to simplify online assessments. It all
 💻 Clean and responsive interface
 
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
 Frontend: HTML, CSS, JavaScript
 
